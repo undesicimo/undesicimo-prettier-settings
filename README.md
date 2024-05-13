@@ -1,7 +1,7 @@
 # undesicimo-prettier-settings
 
 ```
-	"useTabs": true,
+		"useTabs": true,
 		"jsxSingleQuote": true,
 		"singleAttributePerLine": true
 ```
